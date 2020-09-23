@@ -8,3 +8,6 @@
 
 ## Currency converter:
 * Convert Indian currency to any other currency.
+
+## Healthy Programmer:
+* Reminds to drink water, to do eyes exercise and to do physical activity. (Pygame used)
