@@ -14,4 +14,4 @@
 ###### ***Pygame used***
 * Reminds to drink water, to do eyes exercise and to do physical activity. 
 
-**My LinkedIn Profile:** [Aman Thapa](https://www.linkedin.com/in/aman-thapa-6a35571a2/)
+**LinkedIn:** [Aman Thapa](https://www.linkedin.com/in/aman-thapa-6a35571a2/)
