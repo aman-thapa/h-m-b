@@ -1,4 +1,5 @@
-# Programs:-
+# Programs
+---
 
 ## Health Management Code:
 * Keeps a log for exercise and diet for the provided clients.
@@ -14,4 +15,5 @@
 ###### ***Pygame used***
 * Reminds to drink water, to do eyes exercise and to do physical activity. 
 
+---
 **LinkedIn:** [Aman Thapa](https://www.linkedin.com/in/aman-thapa-6a35571a2/)
